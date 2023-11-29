@@ -1,0 +1,62 @@
+.circle {
+    border-radius: 50%;
+    color: black;
+    display: inline-block;
+    height: 50px;
+    font-weight: bold;
+    font-size: 1.2em;
+    width: 50px;
+    margin: 0 auto;
+  }
+  .cir1{
+    background: #938005;
+
+  }
+  .cir2{
+    background: green;
+
+  }
+  .cir3{
+    background: rgb(255, 136, 0);
+
+  }
+  .cir4{
+    background: #0646f7;
+
+  }
+  .cir5{
+    background: #930505;
+
+  }
+  .cir6{
+    background: violet;
+
+  }
+  .cir7{
+    background: blueviolet;
+
+  }
+  
+  .cir8{
+    background: greenyellow;
+
+  }
+  
+  
+  .circle span {
+    display: table-cell;
+    vertical-align: middle;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    padding: 0 15px;
+  }
+  
+  .chart{
+      display: inline-block;
+      vertical-align: top;
+      padding: 5px;
+  }
+  .chart b{
+    font-weight:700;
+  }
